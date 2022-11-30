@@ -1,6 +1,6 @@
 ## GDWired
 
-This organization aims to create connectivity tools for Godot like BLE, Serial, MQTT, ... and so on.
+This organization aims to create connectivity tools for Godot like BLE, Serial, MQTT.
 
 For now there is:
  - GDNativeBLE wrapping of the deprecated BLE (Bluetooth Low Energy) library NativeBLE (https://github.com/kdewald/nativeble) replaced by GDSimpleBLE
