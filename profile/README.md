@@ -3,7 +3,6 @@
 This organization aims to create connectivity tools for Godot using BLE, Serial, MQTT.
 
 For now there is:
- - GDNativeBLE wrapping of the deprecated BLE (Bluetooth Low Energy) library NativeBLE (https://github.com/kdewald/nativeble) replaced by GDSimpleBLE
  - GDSimpleBLE wrapping of BLE (Bluetooth Low Energy) library SimpleBLE (https://github.com/OpenBluetoothToolbox/SimpleBLE)
  - GDMosquitto wrapping of MQTT (Message Queuing Telemetry Transport) library libmosquitto (https://github.com/eclipse/mosquitto)
  - GDPaho wrapping of MQTT (Message Queuing Telemetry Transport) library paho.mqtt.cpp (https://github.com/eclipse/paho.mqtt.cpp)
