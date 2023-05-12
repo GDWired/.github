@@ -1,6 +1,7 @@
 ## GDWired
 
 This organization aims to create connectivity tools for Godot using BLE, Serial, MQTT.
+Godot4 is now available! but not GDExtention... as soon as the version is available, I will develop the GD4 version of all repositories.
 
 For now there is:
  - GDSimpleBLE wrapping of BLE (Bluetooth Low Energy) library SimpleBLE (https://github.com/OpenBluetoothToolbox/SimpleBLE)
