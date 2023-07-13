@@ -13,4 +13,5 @@ In the futur:
  - GDOfFirmata wrapping of the standalone firmata communication part (TODO) of OpenFramework (https://github.com/openframeworks/openFrameworks)
 
 Archived:
- - GDMosquitto wrapping of MQTT (Message Queuing Telemetry Transport) library libmosquitto (https://github.com/eclipse/mosquitto)
+ - GDNativeBLE wrapping of BLE (Bluetooth Low Energy) library NativeBLE (https://github.com/kdewald/nativeble) archived too, **use GDSimpleBLE instead**
+ - GDMosquitto wrapping of MQTT (Message Queuing Telemetry Transport) library libmosquitto (https://github.com/eclipse/mosquitto), **use GDPaho instead**
