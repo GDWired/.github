@@ -7,7 +7,7 @@ Godot4 is now available! but not GDExtention... as soon as it is available, I wi
 For now there is:
  - GDSimpleBLE wrapping of BLE (Bluetooth Low Energy) library SimpleBLE (https://github.com/OpenBluetoothToolbox/SimpleBLE)
  - GDPaho wrapping of MQTT (Message Queuing Telemetry Transport) library paho.mqtt.cpp (https://github.com/eclipse/paho.mqtt.cpp)
- - GDSerial wrapping of serial library CSerialPort (https://github.com/itas109/CSerialPort)
+ - GDOfSerial wrapping of the standalone serial communication part (https://github.com/jferdelyi/ofSerial) of OpenFramework (https://github.com/openframeworks/openFrameworks)
 
 Archived:
  - GDNativeBLE wrapping of BLE (Bluetooth Low Energy) library NativeBLE (https://github.com/kdewald/nativeble) archived too, **use GDSimpleBLE instead**
